@@ -10,10 +10,10 @@
 <p>Sistema de Identificación Facial (faceAcecom) 👀💻</p>
 </h2>
 
-Proyecto interno desarrollo en ACECOM-IA para el monitoreo y verificación de las identidades faciales de los miembros.
+Proyecto interno desarrollo en ACECOM-IA para el monitoreo y verificación de las identidades faciales de los miembros del grupo.
 
 ## Actualización
-- 18/10/20: faceAcecomV1 ahora se ejecuta desde un servidor local con **streamlit**. También se ha añadido soporte para filtros de imagen, y ahora también es capaz de reconocer otros componentes del rostro: ojos. 
+- 18/10/20: faceAcecomV1 ahora se ejecuta desde un servidor local con **STREAMLIT**. También se ha añadido soporte para filtros de imagen, y ahora también es capaz de reconocer otros componentes del rostro: ojos. 
 
 ## 📖 Contenido
 El siguiente árbol muestra la estructura de las versiones de la aplicación:
@@ -47,7 +47,7 @@ El siguiente árbol muestra la estructura de las versiones de la aplicación:
 |       |- README.md
 ```
 ## Maintainers
-* Cristhian Wiki, github: [HiroForYou](https://github.com/HiroForYou)
+* Cristhian Wiki, Github: [HiroForYou](https://github.com/HiroForYou)
 
 ## Agradecimientos
 * Versión 1:
