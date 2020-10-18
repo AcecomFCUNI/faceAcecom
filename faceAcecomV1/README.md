@@ -13,7 +13,7 @@ Construido con Tensorflow 1.4 y Streamlit el verano 2020.
 
 
 <p align="center">
-  <img src="https://i.imgur.com/S2KF7Z2.gif" />
+  <img src="steps.gif" />
 </p>
 
 Este proyecto contó con la participación de:
@@ -64,6 +64,3 @@ python entrenamiento_principal.py
 ## 📘 Materiales adicionales
 Puede encontrar todo el material adional que consultamos, creamos y corregimos en este [enlace](https://drive.google.com/drive/folders/1Ib4MYnbTmBygGVlv0b-ShhwqlJKIc3VG?usp=sharing). Todo el material es gratuito para usted mismo lo pueda replicar en sus propios proyectos.
 Cualquier consulta puede escribir a h3artcalcif3r@gmail.com, le responderemos lo más antes posible. 
-
-## 😲 Agradecimientos
-Agradecemos a los miembros que de forma voluntaria donaron su tiempo para que este proyecto se lleve a cabo. Esperemos poder hacer cosas más fabulosas en el futuro. Es solo el comienzo!
