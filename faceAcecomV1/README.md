@@ -28,7 +28,7 @@ Este proyecto contó con la participación de:
 * Para poder ejecutar este proyecto le recomendamos encarecidamente use ANACONDA o *python venv* para poder manejar sus entornos de trabajo y no tener problemas de incompatibilidad.
 * Una vez que tiene su entorno creado y **activado**, ejecute el siguiente comando en terminal:
 ```bash
-pip install -r requirements
+pip install -r requirements.txt
 ```
 Esto puede tomar un poco de tiempo, asi que tenga paciencia!
 * Eso es todo, estas listo para pasar a la siguiente sección.
