@@ -1,0 +1,10 @@
+models/
+__pycache__/
+.ipynb_checkpoints/
+dataset/Angelica/*.png
+dataset/Brando/*.png
+dataset/Diego/*.png
+dataset/Nelson/*.png
+dataset/Julissa/*.png
+dataset/Wiki/*.png
+*.npy
